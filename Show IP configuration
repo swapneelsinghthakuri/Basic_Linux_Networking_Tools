@@ -1,1 +1,5 @@
 # ip a l
+
+//or
+
+# ifconfig
