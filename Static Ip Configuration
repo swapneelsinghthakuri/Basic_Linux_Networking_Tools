@@ -1,0 +1,4 @@
+Here You can Configure ip Address in linux 
+# ip addr add (your static Ip) dev eth0
+For Example:- 
+# ip addr add 10.5.23.42/24 dev eth0
